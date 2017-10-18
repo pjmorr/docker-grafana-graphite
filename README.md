@@ -5,7 +5,6 @@ This image contains a sensible default configuration of StatsD, Graphite and Gra
 dashboard that gives you the basic metrics currently collected by Kamon for both Actors and Traces. There are two ways
 for using this image:
 
-
 ### Using the Docker Index ###
 
 This image is published under [Kamon's repository on the Docker Hub](https://hub.docker.com/u/kamon/) and all you
